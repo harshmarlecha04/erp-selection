@@ -1,0 +1,9 @@
+row,weight,NetSuite,Business Central,Epicor Kinetic,Plex,comes_first
+Automotive requirements,30,2.53,2.53,3.77,5.00,Plex
+Manufacturing and shop floor,22,3.05,2.59,4.18,4.27,Plex
+Finance and reporting,14,4.29,4.00,4.07,3.29,NetSuite
+Technology,10,4.30,4.60,3.70,3.80,Business Central
+Vendor and implementation,12,3.58,3.83,3.58,3.83,Tie
+Cost,12,3.76,5.00,3.75,4.02,Business Central
+Overall,100,3.34,3.41,3.87,4.22,Plex
+"Five-year cost, USD",,950696,825492,951377,878894,Business Central
